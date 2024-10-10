@@ -1,3 +1,1 @@
-# TypeScript
-
-This project contains tasks for learning to use TypeScript.
+This is a README file of 0x04-TypeScript project
